@@ -1,0 +1,11 @@
+.caracteristicas {
+    background-color: rgb(4, 133, 172);
+    margin-right: auto;
+    margin-left: auto;
+    height: 20rem;
+}
+
+
+.caracteristicas h3 {
+    color: white;
+}
