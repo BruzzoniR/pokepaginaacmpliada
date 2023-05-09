@@ -1,11 +1,10 @@
 .caracteristicas {
-    background-color: rgb(4, 133, 172);
-    margin-right: auto;
-    margin-left: auto;
-    height: 20rem;
+    background-color: #30A7D7;
 }
 
 
 .caracteristicas h3 {
     color: white;
+    font-weight: 100;
+    font-size: 1.4rem;
 }
