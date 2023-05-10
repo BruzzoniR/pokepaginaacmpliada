@@ -2,6 +2,7 @@ import './App.css';
 import BtnNavDex from './componentes/botonera/BtnNavDex';
 import Caracteristicas from './componentes/card-caracteristicas';
 import Tipos from './componentes/tipos/Tipos';
+import Version from './componentes/version/Version';
 
 function App() {
   return (
@@ -26,8 +27,8 @@ function App() {
             </div>
             
             <div className='col-md-6'>
-              <p>Este Pokémon nace con una semilla en el lomo, que brota con el paso del tiempo.</p>
-              <p>Version: 1 | 2</p>
+              <Version version1='Este Pokémon nace con una semilla en el lomo, que brota con el paso del tiempo.'  version2='Este es otro pokemon.'  />
+             
               <Caracteristicas />
             </div>
 
