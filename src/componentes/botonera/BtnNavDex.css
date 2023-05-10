@@ -1,0 +1,14 @@
+
+.botonNavPoke{
+    background-color: #A4A4A4;
+    border: none;
+    padding: 1rem;
+    margin: 10px;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+.botonNavPoke:hover {
+    background-color: rgb(43, 179, 247);
+}
