@@ -16,14 +16,14 @@ const Version = (props) => {
       <div className="mb-3">
         <div className="mb-3">{texto}</div>
         <div className="mx-2">Versiones: 
-        <button class="boton-circulo-azul mx-2" onClick={handleBoton1}>
-       <div class="circulo-externo">
-       <div class="circulo-medio-azul"></div>
+        <button className="boton-circulo-azul mx-2" onClick={handleBoton1}>
+       <div className="circulo-externo">
+       <div className="circulo-medio-azul"></div>
        </div>
         </button>
-        <button class="boton-circulo-rojo mx-2"  onClick={handleBoton2}>
-       <div class="circulo-externo">
-       <div class="circulo-medio-rojo"></div>
+        <button className="boton-circulo-rojo mx-2"  onClick={handleBoton2}>
+       <div className="circulo-externo">
+       <div className="circulo-medio-rojo"></div>
        </div>
         </button>
 
